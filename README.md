@@ -1,2 +1,2 @@
 # jqgrid-columnchooser
-Save and reorder columns from database.
+Save and load the columns positions from database.
