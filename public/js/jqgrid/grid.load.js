@@ -130,7 +130,7 @@ $(function(){
 	    						$table.jqGrid("remapColumns", perm, true);
 		    					
 						    	var colModels = $table.jqGrid('getGridParam', 'colModel');									    	
-						    	var coluns = new Array();
+						    	var columns = new Array();
 
 						    	$.each(perm, function(i, columnIndex){
 						    		
