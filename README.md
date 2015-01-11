@@ -63,7 +63,7 @@ gridComplete: function(){
                                     if( icol > 0 ){
                                         
                                         var pos = columnIndex.index;
-                                        var field = columnIndex.nm_campo;
+                                        var field = columnIndex.field;
                                         
                                         $.each(colModels, function(i, colModel){
                                             
